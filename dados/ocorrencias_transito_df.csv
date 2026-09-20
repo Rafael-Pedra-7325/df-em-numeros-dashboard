@@ -1,0 +1,481 @@
+regiao,mes,tipo_infracao,quantidade
+Plano Piloto,Jan,Excesso de velocidade,13
+Plano Piloto,Jan,Sinal vermelho,29
+Plano Piloto,Jan,Estacionamento irregular,7
+Plano Piloto,Jan,Celular ao volante,8
+Plano Piloto,Fev,Excesso de velocidade,38
+Plano Piloto,Fev,Sinal vermelho,10
+Plano Piloto,Fev,Estacionamento irregular,27
+Plano Piloto,Fev,Celular ao volante,7
+Plano Piloto,Mar,Excesso de velocidade,36
+Plano Piloto,Mar,Sinal vermelho,17
+Plano Piloto,Mar,Estacionamento irregular,6
+Plano Piloto,Mar,Celular ao volante,9
+Plano Piloto,Abr,Excesso de velocidade,31
+Plano Piloto,Abr,Sinal vermelho,30
+Plano Piloto,Abr,Estacionamento irregular,8
+Plano Piloto,Abr,Celular ao volante,19
+Plano Piloto,Mai,Excesso de velocidade,9
+Plano Piloto,Mai,Sinal vermelho,39
+Plano Piloto,Mai,Estacionamento irregular,31
+Plano Piloto,Mai,Celular ao volante,7
+Plano Piloto,Jun,Excesso de velocidade,11
+Plano Piloto,Jun,Sinal vermelho,18
+Plano Piloto,Jun,Estacionamento irregular,7
+Plano Piloto,Jun,Celular ao volante,29
+Plano Piloto,Jul,Excesso de velocidade,7
+Plano Piloto,Jul,Sinal vermelho,18
+Plano Piloto,Jul,Estacionamento irregular,6
+Plano Piloto,Jul,Celular ao volante,39
+Plano Piloto,Ago,Excesso de velocidade,12
+Plano Piloto,Ago,Sinal vermelho,22
+Plano Piloto,Ago,Estacionamento irregular,30
+Plano Piloto,Ago,Celular ao volante,13
+Plano Piloto,Set,Excesso de velocidade,38
+Plano Piloto,Set,Sinal vermelho,11
+Plano Piloto,Set,Estacionamento irregular,23
+Plano Piloto,Set,Celular ao volante,39
+Plano Piloto,Out,Excesso de velocidade,15
+Plano Piloto,Out,Sinal vermelho,10
+Plano Piloto,Out,Estacionamento irregular,16
+Plano Piloto,Out,Celular ao volante,27
+Plano Piloto,Nov,Excesso de velocidade,10
+Plano Piloto,Nov,Sinal vermelho,39
+Plano Piloto,Nov,Estacionamento irregular,8
+Plano Piloto,Nov,Celular ao volante,7
+Plano Piloto,Dez,Excesso de velocidade,17
+Plano Piloto,Dez,Sinal vermelho,35
+Plano Piloto,Dez,Estacionamento irregular,38
+Plano Piloto,Dez,Celular ao volante,31
+Taguatinga,Jan,Excesso de velocidade,52
+Taguatinga,Jan,Sinal vermelho,52
+Taguatinga,Jan,Estacionamento irregular,42
+Taguatinga,Jan,Celular ao volante,36
+Taguatinga,Fev,Excesso de velocidade,30
+Taguatinga,Fev,Sinal vermelho,24
+Taguatinga,Fev,Estacionamento irregular,30
+Taguatinga,Fev,Celular ao volante,15
+Taguatinga,Mar,Excesso de velocidade,36
+Taguatinga,Mar,Sinal vermelho,58
+Taguatinga,Mar,Estacionamento irregular,55
+Taguatinga,Mar,Celular ao volante,39
+Taguatinga,Abr,Excesso de velocidade,50
+Taguatinga,Abr,Sinal vermelho,35
+Taguatinga,Abr,Estacionamento irregular,13
+Taguatinga,Abr,Celular ao volante,18
+Taguatinga,Mai,Excesso de velocidade,56
+Taguatinga,Mai,Sinal vermelho,47
+Taguatinga,Mai,Estacionamento irregular,22
+Taguatinga,Mai,Celular ao volante,39
+Taguatinga,Jun,Excesso de velocidade,21
+Taguatinga,Jun,Sinal vermelho,55
+Taguatinga,Jun,Estacionamento irregular,47
+Taguatinga,Jun,Celular ao volante,10
+Taguatinga,Jul,Excesso de velocidade,13
+Taguatinga,Jul,Sinal vermelho,61
+Taguatinga,Jul,Estacionamento irregular,38
+Taguatinga,Jul,Celular ao volante,39
+Taguatinga,Ago,Excesso de velocidade,41
+Taguatinga,Ago,Sinal vermelho,55
+Taguatinga,Ago,Estacionamento irregular,52
+Taguatinga,Ago,Celular ao volante,13
+Taguatinga,Set,Excesso de velocidade,15
+Taguatinga,Set,Sinal vermelho,33
+Taguatinga,Set,Estacionamento irregular,53
+Taguatinga,Set,Celular ao volante,13
+Taguatinga,Out,Excesso de velocidade,12
+Taguatinga,Out,Sinal vermelho,36
+Taguatinga,Out,Estacionamento irregular,50
+Taguatinga,Out,Celular ao volante,35
+Taguatinga,Nov,Excesso de velocidade,44
+Taguatinga,Nov,Sinal vermelho,41
+Taguatinga,Nov,Estacionamento irregular,9
+Taguatinga,Nov,Celular ao volante,52
+Taguatinga,Dez,Excesso de velocidade,41
+Taguatinga,Dez,Sinal vermelho,22
+Taguatinga,Dez,Estacionamento irregular,18
+Taguatinga,Dez,Celular ao volante,55
+Ceilândia,Jan,Excesso de velocidade,15
+Ceilândia,Jan,Sinal vermelho,8
+Ceilândia,Jan,Estacionamento irregular,13
+Ceilândia,Jan,Celular ao volante,20
+Ceilândia,Fev,Excesso de velocidade,20
+Ceilândia,Fev,Sinal vermelho,24
+Ceilândia,Fev,Estacionamento irregular,6
+Ceilândia,Fev,Celular ao volante,10
+Ceilândia,Mar,Excesso de velocidade,22
+Ceilândia,Mar,Sinal vermelho,20
+Ceilândia,Mar,Estacionamento irregular,26
+Ceilândia,Mar,Celular ao volante,14
+Ceilândia,Abr,Excesso de velocidade,8
+Ceilândia,Abr,Sinal vermelho,21
+Ceilândia,Abr,Estacionamento irregular,26
+Ceilândia,Abr,Celular ao volante,14
+Ceilândia,Mai,Excesso de velocidade,20
+Ceilândia,Mai,Sinal vermelho,18
+Ceilândia,Mai,Estacionamento irregular,19
+Ceilândia,Mai,Celular ao volante,12
+Ceilândia,Jun,Excesso de velocidade,9
+Ceilândia,Jun,Sinal vermelho,6
+Ceilândia,Jun,Estacionamento irregular,10
+Ceilândia,Jun,Celular ao volante,9
+Ceilândia,Jul,Excesso de velocidade,12
+Ceilândia,Jul,Sinal vermelho,12
+Ceilândia,Jul,Estacionamento irregular,3
+Ceilândia,Jul,Celular ao volante,24
+Ceilândia,Ago,Excesso de velocidade,10
+Ceilândia,Ago,Sinal vermelho,14
+Ceilândia,Ago,Estacionamento irregular,15
+Ceilândia,Ago,Celular ao volante,3
+Ceilândia,Set,Excesso de velocidade,9
+Ceilândia,Set,Sinal vermelho,20
+Ceilândia,Set,Estacionamento irregular,26
+Ceilândia,Set,Celular ao volante,18
+Ceilândia,Out,Excesso de velocidade,16
+Ceilândia,Out,Sinal vermelho,8
+Ceilândia,Out,Estacionamento irregular,24
+Ceilândia,Out,Celular ao volante,5
+Ceilândia,Nov,Excesso de velocidade,22
+Ceilândia,Nov,Sinal vermelho,26
+Ceilândia,Nov,Estacionamento irregular,20
+Ceilândia,Nov,Celular ao volante,20
+Ceilândia,Dez,Excesso de velocidade,20
+Ceilândia,Dez,Sinal vermelho,20
+Ceilândia,Dez,Estacionamento irregular,7
+Ceilândia,Dez,Celular ao volante,23
+Samambaia,Jan,Excesso de velocidade,10
+Samambaia,Jan,Sinal vermelho,23
+Samambaia,Jan,Estacionamento irregular,12
+Samambaia,Jan,Celular ao volante,24
+Samambaia,Fev,Excesso de velocidade,44
+Samambaia,Fev,Sinal vermelho,20
+Samambaia,Fev,Estacionamento irregular,16
+Samambaia,Fev,Celular ao volante,35
+Samambaia,Mar,Excesso de velocidade,10
+Samambaia,Mar,Sinal vermelho,14
+Samambaia,Mar,Estacionamento irregular,6
+Samambaia,Mar,Celular ao volante,19
+Samambaia,Abr,Excesso de velocidade,53
+Samambaia,Abr,Sinal vermelho,14
+Samambaia,Abr,Estacionamento irregular,38
+Samambaia,Abr,Celular ao volante,8
+Samambaia,Mai,Excesso de velocidade,12
+Samambaia,Mai,Sinal vermelho,24
+Samambaia,Mai,Estacionamento irregular,39
+Samambaia,Mai,Celular ao volante,19
+Samambaia,Jun,Excesso de velocidade,28
+Samambaia,Jun,Sinal vermelho,36
+Samambaia,Jun,Estacionamento irregular,38
+Samambaia,Jun,Celular ao volante,47
+Samambaia,Jul,Excesso de velocidade,16
+Samambaia,Jul,Sinal vermelho,16
+Samambaia,Jul,Estacionamento irregular,49
+Samambaia,Jul,Celular ao volante,46
+Samambaia,Ago,Excesso de velocidade,47
+Samambaia,Ago,Sinal vermelho,47
+Samambaia,Ago,Estacionamento irregular,32
+Samambaia,Ago,Celular ao volante,13
+Samambaia,Set,Excesso de velocidade,19
+Samambaia,Set,Sinal vermelho,14
+Samambaia,Set,Estacionamento irregular,35
+Samambaia,Set,Celular ao volante,28
+Samambaia,Out,Excesso de velocidade,47
+Samambaia,Out,Sinal vermelho,20
+Samambaia,Out,Estacionamento irregular,51
+Samambaia,Out,Celular ao volante,8
+Samambaia,Nov,Excesso de velocidade,24
+Samambaia,Nov,Sinal vermelho,51
+Samambaia,Nov,Estacionamento irregular,38
+Samambaia,Nov,Celular ao volante,19
+Samambaia,Dez,Excesso de velocidade,53
+Samambaia,Dez,Sinal vermelho,8
+Samambaia,Dez,Estacionamento irregular,51
+Samambaia,Dez,Celular ao volante,32
+Águas Claras,Jan,Excesso de velocidade,17
+Águas Claras,Jan,Sinal vermelho,37
+Águas Claras,Jan,Estacionamento irregular,67
+Águas Claras,Jan,Celular ao volante,49
+Águas Claras,Fev,Excesso de velocidade,26
+Águas Claras,Fev,Sinal vermelho,47
+Águas Claras,Fev,Estacionamento irregular,33
+Águas Claras,Fev,Celular ao volante,69
+Águas Claras,Mar,Excesso de velocidade,69
+Águas Claras,Mar,Sinal vermelho,65
+Águas Claras,Mar,Estacionamento irregular,46
+Águas Claras,Mar,Celular ao volante,33
+Águas Claras,Abr,Excesso de velocidade,30
+Águas Claras,Abr,Sinal vermelho,35
+Águas Claras,Abr,Estacionamento irregular,53
+Águas Claras,Abr,Celular ao volante,33
+Águas Claras,Mai,Excesso de velocidade,30
+Águas Claras,Mai,Sinal vermelho,67
+Águas Claras,Mai,Estacionamento irregular,63
+Águas Claras,Mai,Celular ao volante,47
+Águas Claras,Jun,Excesso de velocidade,10
+Águas Claras,Jun,Sinal vermelho,10
+Águas Claras,Jun,Estacionamento irregular,39
+Águas Claras,Jun,Celular ao volante,62
+Águas Claras,Jul,Excesso de velocidade,37
+Águas Claras,Jul,Sinal vermelho,30
+Águas Claras,Jul,Estacionamento irregular,47
+Águas Claras,Jul,Celular ao volante,58
+Águas Claras,Ago,Excesso de velocidade,47
+Águas Claras,Ago,Sinal vermelho,49
+Águas Claras,Ago,Estacionamento irregular,17
+Águas Claras,Ago,Celular ao volante,33
+Águas Claras,Set,Excesso de velocidade,19
+Águas Claras,Set,Sinal vermelho,33
+Águas Claras,Set,Estacionamento irregular,62
+Águas Claras,Set,Celular ao volante,30
+Águas Claras,Out,Excesso de velocidade,46
+Águas Claras,Out,Sinal vermelho,31
+Águas Claras,Out,Estacionamento irregular,62
+Águas Claras,Out,Celular ao volante,8
+Águas Claras,Nov,Excesso de velocidade,62
+Águas Claras,Nov,Sinal vermelho,47
+Águas Claras,Nov,Estacionamento irregular,17
+Águas Claras,Nov,Celular ao volante,21
+Águas Claras,Dez,Excesso de velocidade,51
+Águas Claras,Dez,Sinal vermelho,30
+Águas Claras,Dez,Estacionamento irregular,62
+Águas Claras,Dez,Celular ao volante,28
+Gama,Jan,Excesso de velocidade,29
+Gama,Jan,Sinal vermelho,11
+Gama,Jan,Estacionamento irregular,33
+Gama,Jan,Celular ao volante,38
+Gama,Fev,Excesso de velocidade,33
+Gama,Fev,Sinal vermelho,11
+Gama,Fev,Estacionamento irregular,16
+Gama,Fev,Celular ao volante,16
+Gama,Mar,Excesso de velocidade,14
+Gama,Mar,Sinal vermelho,6
+Gama,Mar,Estacionamento irregular,15
+Gama,Mar,Celular ao volante,38
+Gama,Abr,Excesso de velocidade,15
+Gama,Abr,Sinal vermelho,39
+Gama,Abr,Estacionamento irregular,30
+Gama,Abr,Celular ao volante,15
+Gama,Mai,Excesso de velocidade,44
+Gama,Mai,Sinal vermelho,44
+Gama,Mai,Estacionamento irregular,14
+Gama,Mai,Celular ao volante,6
+Gama,Jun,Excesso de velocidade,5
+Gama,Jun,Sinal vermelho,12
+Gama,Jun,Estacionamento irregular,42
+Gama,Jun,Celular ao volante,14
+Gama,Jul,Excesso de velocidade,35
+Gama,Jul,Sinal vermelho,19
+Gama,Jul,Estacionamento irregular,20
+Gama,Jul,Celular ao volante,6
+Gama,Ago,Excesso de velocidade,23
+Gama,Ago,Sinal vermelho,20
+Gama,Ago,Estacionamento irregular,25
+Gama,Ago,Celular ao volante,41
+Gama,Set,Excesso de velocidade,22
+Gama,Set,Sinal vermelho,28
+Gama,Set,Estacionamento irregular,23
+Gama,Set,Celular ao volante,43
+Gama,Out,Excesso de velocidade,34
+Gama,Out,Sinal vermelho,14
+Gama,Out,Estacionamento irregular,8
+Gama,Out,Celular ao volante,30
+Gama,Nov,Excesso de velocidade,38
+Gama,Nov,Sinal vermelho,42
+Gama,Nov,Estacionamento irregular,34
+Gama,Nov,Celular ao volante,41
+Gama,Dez,Excesso de velocidade,14
+Gama,Dez,Sinal vermelho,43
+Gama,Dez,Estacionamento irregular,15
+Gama,Dez,Celular ao volante,42
+Sobradinho,Jan,Excesso de velocidade,40
+Sobradinho,Jan,Sinal vermelho,19
+Sobradinho,Jan,Estacionamento irregular,6
+Sobradinho,Jan,Celular ao volante,16
+Sobradinho,Fev,Excesso de velocidade,19
+Sobradinho,Fev,Sinal vermelho,16
+Sobradinho,Fev,Estacionamento irregular,42
+Sobradinho,Fev,Celular ao volante,14
+Sobradinho,Mar,Excesso de velocidade,48
+Sobradinho,Mar,Sinal vermelho,9
+Sobradinho,Mar,Estacionamento irregular,30
+Sobradinho,Mar,Celular ao volante,46
+Sobradinho,Abr,Excesso de velocidade,46
+Sobradinho,Abr,Sinal vermelho,48
+Sobradinho,Abr,Estacionamento irregular,42
+Sobradinho,Abr,Celular ao volante,13
+Sobradinho,Mai,Excesso de velocidade,48
+Sobradinho,Mai,Sinal vermelho,9
+Sobradinho,Mai,Estacionamento irregular,24
+Sobradinho,Mai,Celular ao volante,20
+Sobradinho,Jun,Excesso de velocidade,26
+Sobradinho,Jun,Sinal vermelho,8
+Sobradinho,Jun,Estacionamento irregular,13
+Sobradinho,Jun,Celular ao volante,44
+Sobradinho,Jul,Excesso de velocidade,40
+Sobradinho,Jul,Sinal vermelho,48
+Sobradinho,Jul,Estacionamento irregular,7
+Sobradinho,Jul,Celular ao volante,10
+Sobradinho,Ago,Excesso de velocidade,40
+Sobradinho,Ago,Sinal vermelho,30
+Sobradinho,Ago,Estacionamento irregular,44
+Sobradinho,Ago,Celular ao volante,44
+Sobradinho,Set,Excesso de velocidade,20
+Sobradinho,Set,Sinal vermelho,26
+Sobradinho,Set,Estacionamento irregular,40
+Sobradinho,Set,Celular ao volante,44
+Sobradinho,Out,Excesso de velocidade,47
+Sobradinho,Out,Sinal vermelho,42
+Sobradinho,Out,Estacionamento irregular,44
+Sobradinho,Out,Celular ao volante,24
+Sobradinho,Nov,Excesso de velocidade,46
+Sobradinho,Nov,Sinal vermelho,25
+Sobradinho,Nov,Estacionamento irregular,48
+Sobradinho,Nov,Celular ao volante,20
+Sobradinho,Dez,Excesso de velocidade,40
+Sobradinho,Dez,Sinal vermelho,15
+Sobradinho,Dez,Estacionamento irregular,37
+Sobradinho,Dez,Celular ao volante,14
+Planaltina,Jan,Excesso de velocidade,26
+Planaltina,Jan,Sinal vermelho,9
+Planaltina,Jan,Estacionamento irregular,21
+Planaltina,Jan,Celular ao volante,34
+Planaltina,Fev,Excesso de velocidade,9
+Planaltina,Fev,Sinal vermelho,19
+Planaltina,Fev,Estacionamento irregular,25
+Planaltina,Fev,Celular ao volante,12
+Planaltina,Mar,Excesso de velocidade,14
+Planaltina,Mar,Sinal vermelho,29
+Planaltina,Mar,Estacionamento irregular,14
+Planaltina,Mar,Celular ao volante,22
+Planaltina,Abr,Excesso de velocidade,13
+Planaltina,Abr,Sinal vermelho,36
+Planaltina,Abr,Estacionamento irregular,20
+Planaltina,Abr,Celular ao volante,11
+Planaltina,Mai,Excesso de velocidade,32
+Planaltina,Mai,Sinal vermelho,38
+Planaltina,Mai,Estacionamento irregular,16
+Planaltina,Mai,Celular ao volante,20
+Planaltina,Jun,Excesso de velocidade,16
+Planaltina,Jun,Sinal vermelho,34
+Planaltina,Jun,Estacionamento irregular,39
+Planaltina,Jun,Celular ao volante,32
+Planaltina,Jul,Excesso de velocidade,27
+Planaltina,Jul,Sinal vermelho,33
+Planaltina,Jul,Estacionamento irregular,18
+Planaltina,Jul,Celular ao volante,28
+Planaltina,Ago,Excesso de velocidade,26
+Planaltina,Ago,Sinal vermelho,10
+Planaltina,Ago,Estacionamento irregular,29
+Planaltina,Ago,Celular ao volante,6
+Planaltina,Set,Excesso de velocidade,27
+Planaltina,Set,Sinal vermelho,42
+Planaltina,Set,Estacionamento irregular,36
+Planaltina,Set,Celular ao volante,35
+Planaltina,Out,Excesso de velocidade,6
+Planaltina,Out,Sinal vermelho,31
+Planaltina,Out,Estacionamento irregular,27
+Planaltina,Out,Celular ao volante,40
+Planaltina,Nov,Excesso de velocidade,24
+Planaltina,Nov,Sinal vermelho,39
+Planaltina,Nov,Estacionamento irregular,9
+Planaltina,Nov,Celular ao volante,12
+Planaltina,Dez,Excesso de velocidade,20
+Planaltina,Dez,Sinal vermelho,11
+Planaltina,Dez,Estacionamento irregular,10
+Planaltina,Dez,Celular ao volante,22
+Guará,Jan,Excesso de velocidade,14
+Guará,Jan,Sinal vermelho,20
+Guará,Jan,Estacionamento irregular,12
+Guará,Jan,Celular ao volante,29
+Guará,Fev,Excesso de velocidade,19
+Guará,Fev,Sinal vermelho,27
+Guará,Fev,Estacionamento irregular,12
+Guará,Fev,Celular ao volante,36
+Guará,Mar,Excesso de velocidade,34
+Guará,Mar,Sinal vermelho,33
+Guará,Mar,Estacionamento irregular,23
+Guará,Mar,Celular ao volante,9
+Guará,Abr,Excesso de velocidade,20
+Guará,Abr,Sinal vermelho,7
+Guará,Abr,Estacionamento irregular,14
+Guará,Abr,Celular ao volante,29
+Guará,Mai,Excesso de velocidade,8
+Guará,Mai,Sinal vermelho,20
+Guará,Mai,Estacionamento irregular,5
+Guará,Mai,Celular ao volante,9
+Guará,Jun,Excesso de velocidade,19
+Guará,Jun,Sinal vermelho,9
+Guará,Jun,Estacionamento irregular,17
+Guará,Jun,Celular ao volante,8
+Guará,Jul,Excesso de velocidade,19
+Guará,Jul,Sinal vermelho,11
+Guará,Jul,Estacionamento irregular,31
+Guará,Jul,Celular ao volante,4
+Guará,Ago,Excesso de velocidade,24
+Guará,Ago,Sinal vermelho,37
+Guará,Ago,Estacionamento irregular,28
+Guará,Ago,Celular ao volante,20
+Guará,Set,Excesso de velocidade,12
+Guará,Set,Sinal vermelho,6
+Guará,Set,Estacionamento irregular,35
+Guará,Set,Celular ao volante,18
+Guará,Out,Excesso de velocidade,11
+Guará,Out,Sinal vermelho,13
+Guará,Out,Estacionamento irregular,19
+Guará,Out,Celular ao volante,7
+Guará,Nov,Excesso de velocidade,14
+Guará,Nov,Sinal vermelho,15
+Guará,Nov,Estacionamento irregular,22
+Guará,Nov,Celular ao volante,22
+Guará,Dez,Excesso de velocidade,35
+Guará,Dez,Sinal vermelho,16
+Guará,Dez,Estacionamento irregular,21
+Guará,Dez,Celular ao volante,30
+Santa Maria,Jan,Excesso de velocidade,19
+Santa Maria,Jan,Sinal vermelho,26
+Santa Maria,Jan,Estacionamento irregular,32
+Santa Maria,Jan,Celular ao volante,7
+Santa Maria,Fev,Excesso de velocidade,25
+Santa Maria,Fev,Sinal vermelho,8
+Santa Maria,Fev,Estacionamento irregular,6
+Santa Maria,Fev,Celular ao volante,7
+Santa Maria,Mar,Excesso de velocidade,44
+Santa Maria,Mar,Sinal vermelho,48
+Santa Maria,Mar,Estacionamento irregular,20
+Santa Maria,Mar,Celular ao volante,44
+Santa Maria,Abr,Excesso de velocidade,42
+Santa Maria,Abr,Sinal vermelho,24
+Santa Maria,Abr,Estacionamento irregular,39
+Santa Maria,Abr,Celular ao volante,13
+Santa Maria,Mai,Excesso de velocidade,38
+Santa Maria,Mai,Sinal vermelho,43
+Santa Maria,Mai,Estacionamento irregular,46
+Santa Maria,Mai,Celular ao volante,36
+Santa Maria,Jun,Excesso de velocidade,44
+Santa Maria,Jun,Sinal vermelho,28
+Santa Maria,Jun,Estacionamento irregular,21
+Santa Maria,Jun,Celular ao volante,22
+Santa Maria,Jul,Excesso de velocidade,31
+Santa Maria,Jul,Sinal vermelho,20
+Santa Maria,Jul,Estacionamento irregular,15
+Santa Maria,Jul,Celular ao volante,36
+Santa Maria,Ago,Excesso de velocidade,32
+Santa Maria,Ago,Sinal vermelho,9
+Santa Maria,Ago,Estacionamento irregular,15
+Santa Maria,Ago,Celular ao volante,6
+Santa Maria,Set,Excesso de velocidade,10
+Santa Maria,Set,Sinal vermelho,25
+Santa Maria,Set,Estacionamento irregular,38
+Santa Maria,Set,Celular ao volante,18
+Santa Maria,Out,Excesso de velocidade,9
+Santa Maria,Out,Sinal vermelho,12
+Santa Maria,Out,Estacionamento irregular,34
+Santa Maria,Out,Celular ao volante,44
+Santa Maria,Nov,Excesso de velocidade,27
+Santa Maria,Nov,Sinal vermelho,24
+Santa Maria,Nov,Estacionamento irregular,27
+Santa Maria,Nov,Celular ao volante,8
+Santa Maria,Dez,Excesso de velocidade,40
+Santa Maria,Dez,Sinal vermelho,19
+Santa Maria,Dez,Estacionamento irregular,18
+Santa Maria,Dez,Celular ao volante,26

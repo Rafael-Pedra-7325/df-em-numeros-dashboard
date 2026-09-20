@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>DF em Números — Dashboard de Trânsito</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>DF em Números 📊</h1>
+      <p class="subtitulo">
+        Painel de ocorrências de trânsito por Região Administrativa.
+        <strong>Dados sintéticos</strong>, gerados apenas para fins de demonstração deste projeto.
+      </p>
+    </header>
+
+    <section class="kpis" id="kpis"></section>
+
+    <section class="graficos">
+      <div class="cartao-grafico">
+        <h2>Ocorrências por Região Administrativa</h2>
+        <canvas id="grafico-regiao"></canvas>
+      </div>
+      <div class="cartao-grafico">
+        <h2>Ocorrências por tipo de infração</h2>
+        <canvas id="grafico-tipo"></canvas>
+      </div>
+      <div class="cartao-grafico largo">
+        <h2>Tendência mensal</h2>
+        <canvas id="grafico-mes"></canvas>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
