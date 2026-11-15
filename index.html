@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>DF em Números — Dashboard de Trânsito</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
-<link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DF em Números — Dashboard de Trânsito</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <main class="container">
@@ -17,20 +17,42 @@
       </p>
     </header>
 
-    <section class="kpis" id="kpis"></section>
+    <section class="filtros" aria-label="Filtros do painel">
+      <div class="campo-filtro">
+        <label for="filtro-regiao">Região Administrativa</label>
+        <select id="filtro-regiao">
+          <option value="todas">Todas as regiões</option>
+        </select>
+      </div>
+
+      <div class="campo-filtro">
+        <label for="filtro-mes">Mês</label>
+        <select id="filtro-mes">
+          <option value="todos">Todos os meses</option>
+        </select>
+      </div>
+
+      <button type="button" id="btn-limpar" class="btn-limpar" disabled>
+        Limpar filtros
+      </button>
+    </section>
+
+    <div id="mensagem-erro" class="alerta-erro" role="alert" hidden></div>
+
+    <section class="kpis" id="kpis" aria-live="polite"></section>
 
     <section class="graficos">
       <div class="cartao-grafico">
         <h2>Ocorrências por Região Administrativa</h2>
-        <canvas id="grafico-regiao"></canvas>
+        <canvas id="grafico-regiao" aria-label="Gráfico de barras de ocorrências por região"></canvas>
       </div>
       <div class="cartao-grafico">
         <h2>Ocorrências por tipo de infração</h2>
-        <canvas id="grafico-tipo"></canvas>
+        <canvas id="grafico-tipo" aria-label="Gráfico de barras de ocorrências por tipo de infração"></canvas>
       </div>
       <div class="cartao-grafico largo">
         <h2>Tendência mensal</h2>
-        <canvas id="grafico-mes"></canvas>
+        <canvas id="grafico-mes" aria-label="Gráfico de linha de tendência mensal"></canvas>
       </div>
     </section>
   </main>
