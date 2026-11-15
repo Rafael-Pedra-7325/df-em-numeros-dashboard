@@ -1,0 +1,3013 @@
+{
+  "total_geral": 13414,
+  "ordem_meses": [
+    "Jan",
+    "Fev",
+    "Mar",
+    "Abr",
+    "Mai",
+    "Jun",
+    "Jul",
+    "Ago",
+    "Set",
+    "Out",
+    "Nov",
+    "Dez"
+  ],
+  "regiao_com_mais_ocorrencias": {
+    "regiao": "Ceilândia",
+    "quantidade": 1967
+  },
+  "por_regiao": [
+    {
+      "regiao": "Ceilândia",
+      "quantidade": 1967
+    },
+    {
+      "regiao": "Taguatinga",
+      "quantidade": 1775
+    },
+    {
+      "regiao": "Plano Piloto",
+      "quantidade": 1572
+    },
+    {
+      "regiao": "Águas Claras",
+      "quantidade": 1446
+    },
+    {
+      "regiao": "Samambaia",
+      "quantidade": 1288
+    },
+    {
+      "regiao": "Gama",
+      "quantidade": 1200
+    },
+    {
+      "regiao": "Guará",
+      "quantidade": 1112
+    },
+    {
+      "regiao": "Sobradinho",
+      "quantidade": 1075
+    },
+    {
+      "regiao": "Planaltina",
+      "quantidade": 1041
+    },
+    {
+      "regiao": "Santa Maria",
+      "quantidade": 938
+    }
+  ],
+  "por_tipo_infracao": [
+    {
+      "tipo": "Excesso de velocidade",
+      "quantidade": 3779
+    },
+    {
+      "tipo": "Estacionamento irregular",
+      "quantidade": 3638
+    },
+    {
+      "tipo": "Sinal vermelho",
+      "quantidade": 3157
+    },
+    {
+      "tipo": "Celular ao volante",
+      "quantidade": 2840
+    }
+  ],
+  "por_mes": [
+    {
+      "mes": "Jan",
+      "quantidade": 1042
+    },
+    {
+      "mes": "Fev",
+      "quantidade": 1140
+    },
+    {
+      "mes": "Mar",
+      "quantidade": 1237
+    },
+    {
+      "mes": "Abr",
+      "quantidade": 1129
+    },
+    {
+      "mes": "Mai",
+      "quantidade": 1194
+    },
+    {
+      "mes": "Jun",
+      "quantidade": 1219
+    },
+    {
+      "mes": "Jul",
+      "quantidade": 1089
+    },
+    {
+      "mes": "Ago",
+      "quantidade": 1100
+    },
+    {
+      "mes": "Set",
+      "quantidade": 1015
+    },
+    {
+      "mes": "Out",
+      "quantidade": 1110
+    },
+    {
+      "mes": "Nov",
+      "quantidade": 1126
+    },
+    {
+      "mes": "Dez",
+      "quantidade": 1013
+    }
+  ],
+  "detalhado": [
+    {
+      "regiao": "Ceilândia",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 51
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 63
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 53
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 43
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 56
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 59
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 43
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 50
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 63
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 56
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 59
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 69
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 43
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 74
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 43
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 53
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Ceilândia",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 43
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Gama",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 46
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Guará",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 7
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Planaltina",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 59
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 63
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 45
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 55
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 53
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 46
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 56
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 55
+    },
+    {
+      "regiao": "Plano Piloto",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 47
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 37
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Samambaia",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 7
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 6
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 9
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Santa Maria",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 6
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 13
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 17
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 8
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 12
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Sobradinho",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 51
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 22
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 56
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 52
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 45
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 26
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 60
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 40
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 46
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 47
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 62
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 34
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 38
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 56
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 53
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 32
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 47
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 44
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 45
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 67
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Taguatinga",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Abr",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 24
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Abr",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Abr",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Abr",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Ago",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Ago",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 57
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Ago",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 52
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Ago",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Dez",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Dez",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Dez",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Dez",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 11
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Fev",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 18
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Fev",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Fev",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Fev",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 42
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jan",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 39
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jan",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 14
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jan",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jan",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 19
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jul",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 23
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jul",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 47
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jul",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jul",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 29
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jun",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 30
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jun",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 33
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jun",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 61
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Jun",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mai",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mai",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 25
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mai",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 45
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mai",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 49
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mar",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 28
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mar",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 31
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mar",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 36
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Mar",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 48
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Nov",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Nov",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 54
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Nov",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 41
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Nov",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 35
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Out",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 10
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Out",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 46
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Out",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 27
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Out",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 20
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Set",
+      "tipo_infracao": "Celular ao volante",
+      "quantidade": 15
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Set",
+      "tipo_infracao": "Estacionamento irregular",
+      "quantidade": 16
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Set",
+      "tipo_infracao": "Excesso de velocidade",
+      "quantidade": 21
+    },
+    {
+      "regiao": "Águas Claras",
+      "mes": "Set",
+      "tipo_infracao": "Sinal vermelho",
+      "quantidade": 18
+    }
+  ]
+}
