@@ -13,13 +13,13 @@ async function carregarDados() {
   return resposta.json();
 }
 
-function exibirErro(mensagem) {
+function exibirErro(mensagem, dica) {
   const erroEl = document.getElementById("mensagem-erro");
   erroEl.hidden = false;
   erroEl.innerHTML = `
-    <strong>Não foi possível carregar os dados do painel.</strong><br />
+    <strong>Não foi possível carregar o painel.</strong><br />
     ${mensagem}<br />
-    <small>Dica: execute <code>python gerar_dados.py</code>, <code>python analise.py</code> e abra via servidor local (<code>python -m http.server 8000</code>).</small>
+    <small>${dica}</small>
   `;
 }
 
@@ -210,6 +210,14 @@ function atualizarDashboard(dados) {
 
 (async function iniciar() {
   try {
+    if (typeof Chart === "undefined") {
+      exibirErro(
+        "A biblioteca de gráficos (Chart.js) não pôde ser carregada.",
+        "Verifique sua conexão com a internet ou desative bloqueadores de scripts externos no navegador."
+      );
+      return;
+    }
+
     const dados = await carregarDados();
     preencherFiltros(dados);
     atualizarDashboard(dados);
@@ -223,6 +231,9 @@ function atualizarDashboard(dados) {
     });
   } catch (erro) {
     console.error(erro);
-    exibirErro(erro.message);
+    exibirErro(
+      erro.message,
+      "Dica: execute <code>python gerar_dados.py</code>, <code>python analise.py</code> e abra via servidor local (<code>python -m http.server 8000</code>)."
+    );
   }
 })();
